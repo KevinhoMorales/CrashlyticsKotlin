@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288692284698",
+    "project_id": "crashlyticskotlin",
+    "storage_bucket": "crashlyticskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288692284698:android:66843fe9a48eb6c3bb90a3",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.crashlyticskotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExpMt9F6aA823olUBIaRLndmQtlXUTbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
